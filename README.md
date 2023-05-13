@@ -2,8 +2,8 @@
 
 [Pid 33 Roll Nos 58 66 16-02-2023 (5).pdf](https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/files/11469856/Pid.33.Roll.Nos.58.66.16-02-2023.5.pdf)
 <div align="center">
-   <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/dd709f9a-11b5-4625-ad4e-7f88f3cbe1db">
-    <b>**Figure 1: Block Diagram of proposed system**<\b>
+   <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/dd709f9a-11b5-4625-ad4e-7f88f3cbe1db"><br><br>
+    **Figure 1: Block Diagram of proposed system**
 </div>
  
 
