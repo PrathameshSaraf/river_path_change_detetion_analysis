@@ -2,17 +2,17 @@
 
 [Pid 33 Roll Nos 58 66 16-02-2023 (5).pdf](https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/files/11469856/Pid.33.Roll.Nos.58.66.16-02-2023.5.pdf)
 <div align="center">
-   <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/dd709f9a-11b5-4625-ad4e-7f88f3cbe1db"><br><br>
+   <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/dd709f9a-11b5-4625-ad4e-7f88f3cbe1db"><br>
     **Figure 1: Block Diagram of proposed system**
-
+<br><br><br>
  
 
-<img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/1dad5d62-56b0-4af8-9c2a-378ecce81bd1"><br><br>
+<img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/1dad5d62-56b0-4af8-9c2a-378ecce81bd1"><br>
  **Figure 2: Process of Image Stitching **
-
-<img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/e3581b3f-c856-4eeb-ac8e-983e35bd61bb"><br><br>
+<br><br><br>
+<img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/e3581b3f-c856-4eeb-ac8e-983e35bd61bb"><br>
  **Figure 3: Extracted Blue River. **
-
+<br><br><br>
 
 <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/e293cb84-ddb2-44da-ac4b-d46adff8360d"><br><br>
  **Figure 4: performing Thresholding. **
