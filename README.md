@@ -5,12 +5,10 @@
    <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/dd709f9a-11b5-4625-ad4e-7f88f3cbe1db"><br>
     **Figure 1: Block Diagram of proposed system**
    
-<hr><br><br>
- <br/>
-
+<hr>
 <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/1dad5d62-56b0-4af8-9c2a-378ecce81bd1"><br>
  **Figure 2: Process of Image Stitching **
-<br><br><br>
+<br><hr><br>
 <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/e3581b3f-c856-4eeb-ac8e-983e35bd61bb"><br>
  **Figure 3: Extracted Blue River. **
 <br><br><br>
