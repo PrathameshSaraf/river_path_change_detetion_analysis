@@ -1,4 +1,4 @@
-# River_Path_Change_Detetion_Analysis
+# River_Path_Change_Detetion_Analysis(Krishna River)
 
 <div align="center">
    <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/dd709f9a-11b5-4625-ad4e-7f88f3cbe1db"><br>
