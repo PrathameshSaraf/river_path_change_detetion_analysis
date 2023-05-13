@@ -4,6 +4,7 @@
 <div align="center">
    <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/dd709f9a-11b5-4625-ad4e-7f88f3cbe1db"><br>
     **Figure 1: Block Diagram of proposed system**
+   <hr/>
 <br><br><br>
  <br/>
 
