@@ -1,4 +1,4 @@
-# river_path_change_detetion_analysis
+# River_Path_Change_Detetion_Analysis
 
 <div align="center">
    <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/dd709f9a-11b5-4625-ad4e-7f88f3cbe1db"><br>
@@ -31,7 +31,7 @@ Figure 8. Feature Parameter Table
 Figure 9. Analysis of River Path Length
 <br><hr><br>
 
-<img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/d0542532-7cd1-4d3a-8c66-5774c7bc5a9d)
+<img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/d0542532-7cd1-4d3a-8c66-5774c7bc5a9d"><br><br>
 Figure 10: Analysis of River Path Area
 <br><hr><br>
 </div>
