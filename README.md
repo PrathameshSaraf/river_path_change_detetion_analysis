@@ -7,7 +7,7 @@
 <hr>
 
 <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/c7f7c2ef-777a-4e06-a474-b9a7a80b6cde"><br>
-    **Figure 2: Block Diagram of proposed system**
+    **Figure 2: Algorithm **
    
 <hr>
 
