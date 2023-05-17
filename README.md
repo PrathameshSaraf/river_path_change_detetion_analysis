@@ -5,19 +5,25 @@
     **Figure 1: Block Diagram of proposed system**
    
 <hr>
+
+<img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/c7f7c2ef-777a-4e06-a474-b9a7a80b6cde"><br>
+    **Figure 2: Block Diagram of proposed system**
+   
+<hr>
+
 <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/1dad5d62-56b0-4af8-9c2a-378ecce81bd1"><br>
- **Figure 2: Process of Image Stitching **
+ **Figure 3: Process of Image Stitching **
 <br><hr><br>
 <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/e3581b3f-c856-4eeb-ac8e-983e35bd61bb"><br>
- **Figure 3: Extracted Blue River. **
+ **Figure 4: Extracted Blue River. **
 <br><hr><br>
 
 <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/e293cb84-ddb2-44da-ac4b-d46adff8360d"><br><br>
- **Figure 4: performing Thresholding. **
+ **Figure 5: performing Thresholding. **
 <br><hr><br>
 
 <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/47e7ee4d-0426-4086-b818-1161725cbef8"><br><br>
-Figure 5: River Detection using Contours
+Figure 6: River Detection using Contours
 <br><hr><br>
 <img src="https://github.com/PrathameshSaraf/river_path_change_detetion_analysis/assets/98448367/78c41989-2afb-46d9-83a6-f3ea0cc357c3"><br><br>
 Figure 7: Output Image
